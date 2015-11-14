@@ -1,0 +1,30 @@
+Known Issues
+------------
+
+*** Whole Project
+
+3. DHCP server/clients : re-leasing, MAC-filter and excludes.
+4. Socks Proxy(old -- Nat Gateway) to external network. 
+6. Repeaters and Ethernet fiber converters
+8. Firewalls (NAT, PAT, etc)
+9. Second level Switches (VLAN, etc...)
+11. DNS server/clents.
+12. Wi-Fi Access-Points and Wi-Fi adapters in PCs
+13. TokenRing
+
+*** Documentation/Comments
+
+1. Write documentation for routing functions in ProtocolStack, IPv4, Route_Entry.
+2. Change the licence to licence.txt in the headers of all source files.
+
+*** GUI Related
+ 
+1. Check changing/saving netmask in SET TCP/IP Properties dialog.
+7. Fix LinkProperties Dialog: safe using (check for correct input values) (!!!, Gift!).
+10. Optimize File Open/Save dialog calling...
+
+*** Simulation Related
+
+*** Command Line Interface (CLI) Related
+
+0. Redevelop the CLI.

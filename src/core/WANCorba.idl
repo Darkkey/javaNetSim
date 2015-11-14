@@ -1,0 +1,9 @@
+module core
+{
+  interface WANCorba
+  {
+    void receivePacket(in string inPacket);
+    void setServiceName(in string inService);
+    oneway void shutdown();
+  };
+};

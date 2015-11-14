@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="javaNetSim/bin/javaNetSim.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/javaNetSim/buildjar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=javaNetSim/src&lt;guiUI{MainScreen.java[MainScreen" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/javaNetSim/linux.sh"/>
+        <folder path="/javaNetSim/tests"/>
+        <file path="/javaNetSim/TODO.txt"/>
+        <file path="/javaNetSim/README.txt"/>
+        <file path="/javaNetSim/wideall.policy"/>
+        <folder path="/javaNetSim/lib"/>
+        <file path="/javaNetSim/licence.txt"/>
+        <javaElement handleIdentifier="=javaNetSim/src"/>
+        <file path="/javaNetSim/TODO_ru.txt"/>
+        <folder path="/javaNetSim/configs"/>
+        <file path="/javaNetSim/windows.bat"/>
+    </selectedElements>
+</jardesc>
